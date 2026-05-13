@@ -1,6 +1,6 @@
 {
   "name": "@geodocs/n8n-nodes-geodocs",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Official n8n node for Geodocs — GIS project management platform",
   "keywords": [
     "n8n-community-node-package",
