@@ -36,12 +36,12 @@
     "prepublishOnly": "npm run build"
   },
   "devDependencies": {
-    "@types/jest": "^30.0.0",
-    "@types/node": "^25.6.0",
-    "jest": "^30.3.0",
-    "n8n-workflow": "^2.16.0",
-    "ts-jest": "^29.4.9",
-    "typescript": "^5.0.0"
+    "@types/jest": "~30.0.0",
+    "@types/node": "~24.12.3",
+    "jest": "~30.4.2",
+    "n8n-workflow": "~2.16.0",
+    "ts-jest": "~29.4.9",
+    "typescript": "~5.9.3"
   },
   "peerDependencies": {
     "n8n-workflow": ">=1.0.0"
